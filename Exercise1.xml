@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<Books>
+	<CookeryBook>
+	<book isbn-13="978-0718187767" isbn-10="0718187768"> 
+	<title>Veg: Easy Delicious Meals</title> 
+	<publisher>Michael Joseph</publisher> 
+	<author>Jamie Oliver</author> 
+	</book>
+	<book isbn-13="978-0718187767" isbn-10="0718187768"> 
+	<title>Rick Stein at home</title> 
+	<publisher>Ebury Publishing</publisher> 
+	<author>Rick Stein</author> 
+	</book>
+	</CookeryBook>
+
+	<TechnicalBook>
+	<book isbn-13="978-1119787600" isbn-10="1119787602"> 
+	<title>Python All-in-One for dummies</title> 
+	<publisher>For Dummies</publisher> 
+	<author>John C Shovic</author> 
+	</book>
+	<book isbn-13="978-1593279288" isbn-10="1593279280"> 
+	<title>Python Crash Course</title> 
+	<publisher>No Starch Press</publisher> 
+	<author>Eric Matthes</author> 
+	</book>
+	</TechnicalBook>
+</Books>
